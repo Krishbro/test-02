@@ -1,0 +1,64 @@
+.container {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+}
+
+h1 {
+text-align: center;
+font-size: 36px;
+}
+
+.game {
+border: 2px solid #ccc;
+padding: 20px;
+margin-bottom: 20px;
+}
+
+.sentence {
+font-size: 24px;
+margin-bottom: 20px;
+}
+
+.sinhala {
+font-size: 18px;
+color: #666;
+}
+
+.words {
+display: flex;
+flex-wrap: wrap;
+}
+
+.word {
+background-color: #f0f0f0;
+border: 1px solid #ccc;
+border-radius: 5px;
+padding: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+cursor: pointer;
+}
+
+.submit {
+text-align: center;
+margin-top: 20px;
+}
+
+button {
+background-color: #4CAF50;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+font-size: 18px;
+}
+.result {
+font-size: 24px;
+text-align: center;
+margin-top: 20px;
+}
+.english{
+display:none;
+}
